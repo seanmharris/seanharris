@@ -1,4 +1,3 @@
-# seanharris
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">A passionate full-stack developer from Houston, TX</h3>
 
