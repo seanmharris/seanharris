@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React Native, & TypeScript**
 
-- 👨‍💻 All of my projects are available at [seanharris.netlify.app](seanharris.netlify.app)
+- 👨‍💻 All of my projects are available at [https://seanharris.netlify.app](seanharris.netlify.app)
 
 - 💬 Ask me about **vanilla JS, CSS, and React.js**
 
